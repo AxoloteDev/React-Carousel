@@ -1,5 +1,5 @@
 # React-Carousel 🖼️
-**[Link to website]("https://react-carousel-theta.vercel.app/")**
+**[Link to website](https://react-carousel-theta.vercel.app/)**
 
 ---
 
