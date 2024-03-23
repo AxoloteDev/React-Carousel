@@ -1,8 +1,17 @@
-# React + Vite
+# React-Carousel 🖼️
+**[Link to website]()**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+### Description 📖
+ A simple and responsive component designed to display content in slide format. It features easy navigation between slides through navigation buttons, making it user-friendly. With its minimalist design, it's straightforward to integrate into various projects, ensuring a smooth user experience. The responsive design allows it to adapt seamlessly to different screen sizes and devices, providing consistent and optimized viewing on smartphones, tablets, and desktops.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ ---
+ 
+ ## Important ❗
+**Remember that this project is just a form of study, with no commercial intention**
+
+---
+
+## Contact ☎️
+1. [renankalu@gmail.com](renankalu@gmail.com)
