@@ -15,7 +15,7 @@ function Carousel({ data }) {
   return (
     <div className="carousel-conteiner">
       <img
-        src="./src/images/arrow.png"
+        src="../src/images/arrow.png"
         className="arrow left-arrow"
         alt="left arrow"
         onClick={prevSlide}
