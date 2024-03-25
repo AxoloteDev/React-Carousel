@@ -56,11 +56,15 @@ body{
 .bullet{
   border: none;
   outline: none;
-  width: 1vmin;
-  height: 1vmin;
+  width: 1.2vmin;
+  height: 1.2vmin;
   border-radius: 10px;
   margin: 0 0 0 3vmin;
   background-color: white;
+}
+
+.bullet:hover{
+  cursor: pointer;
 }
 
 .bullet-inactive{

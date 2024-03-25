@@ -15,7 +15,7 @@ function Carousel({ data }) {
   return (
     <div className="carousel-conteiner">
       <img
-        src="../src/images/arrow.png"
+        src="/static/images/arrow.png"
         className="arrow left-arrow"
         alt="left arrow"
         onClick={prevSlide}
@@ -26,14 +26,14 @@ function Carousel({ data }) {
         );
       })}
       <img
-        src="../src/images/arrow.png"
+        src="/static/images/arrow.png"
         className="arrow right-arrow"
         alt="right arrow"
         onClick={nextSlide}
       />
       <span className="bullets">
         {data.map((none, id) => {
-          return <button key={id} onClick={null} className={slide === id ? "bullet" : "bullet bullet-inactive"}></button>;
+          return <button key={id} onClick={() => setSlide(id)} className={slide === id ? "bullet" : "bullet bullet-inactive"}></button>;
         })}
       </span>
     </div>
